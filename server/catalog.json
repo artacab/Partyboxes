@@ -1,0 +1,56 @@
+[
+    {
+        "'id": "el1",
+        "name": "JBL Link Music",
+        "img": "https://cdn21vek.by/img/galleries/6148/719/preview_b/linkmusiclinkmusicblkru_jbl_60c3381a52487.jpeg",
+        "price": 187
+    },
+    {
+        "id": "el2",
+        "name": "LG WK7Y WK7Y.DRUSLLK",
+        "img": "https://cdn21vek.by/img/galleries/6181/297/preview_b/wk7ywk7ydrusllk_lg_60a4dd6245ca3.jpeg",
+        "price": 252
+    },
+    {
+        "id": "el3",
+        "name": "JBL Link Portable Yandex",
+        "img": "https://cdn21vek.by/img/galleries/6105/73/preview_b/linkportableyandexlinkporbrnru_jbl_5fcdcdc56b2f5.jpeg",
+        "price": 532
+    },
+    {
+        "id": "el4",
+        "name": "Яндекс Станция Лайт YNDX-00025G",
+        "img": "https://cdn21vek.by/img/galleries/6680/611/preview_b/yndx00025g_yandex_60e6aef3b70c6.jpeg",
+        "price": 121
+    },
+    {
+        "id": "el5",
+        "name": "Яндекс Станция Макс YNDX-0008",
+        "img": "https://cdn21vek.by/img/galleries/6480/721/preview_b/yndx0008_yandex_609ce62905967.jpeg",
+        "price": 612
+    },
+    {
+        "id": "el6",
+        "name": "Яндекс Станция (черный)",
+        "img": "https://cdn21vek.by/img/galleries/1124/525/preview_b/yandex_02_5d3ea74e93b54.jpeg",
+        "price": 121
+    },
+    {
+        "id": "el7",
+        "name": "Яндекс Станция (серебристый/серый)",
+        "img": "https://cdn21vek.by/img/galleries/1124/526/preview_b/yandex_5d3ea83631f8f.jpeg",
+        "price": 743
+    },
+    {
+        "id": "el8",
+        "name": "JBL Link Portable Yandex",
+        "img": "https://cdn21vek.by/img/galleries/6105/75/preview_b/linkportableyandexlinkporbluru_jbl_5f8d61cdbdbb6.jpeg",
+        "price": 471
+    },
+    {
+        "id": "el9",
+        "name": "Яндекс Станция Макс YNDX-0008",
+        "img": "https://cdn21vek.by/img/galleries/6480/716/preview_b/yndx0008_yandex_01_607fdf24c7a0f.jpeg",
+        "price": 621
+    }
+]
